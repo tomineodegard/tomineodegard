@@ -8,7 +8,9 @@ Front end development, UX and digital design
 *   🖥️  See my portfolio at [this link](http://tomineodegard.dk)
 *   ✉️  You can contact me at [tomineodegard@hotmail.no](mailto:tomineodegard@hotmail.no)
 *   🧠  I'm learning Ract
-*   ⚡  I am currently looking for an internship as a part of my education. I am seeking the opportunity to be part of a creative and innovative company where I can further develop my skills in front-end development, UX and digital design.### Skills<p align="left">
+*   ⚡  I am currently looking for an internship as a part of my education. I am seeking the opportunity to be part of a creative and innovative company where I can further develop my skills in front-end development, UX and digital design.
+
+### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
