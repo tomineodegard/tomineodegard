@@ -7,6 +7,8 @@ Front end development, UX and digital design
 
 🌍  I'm based in Copenhagen, Denmark 🇩🇰 (originally from 🇳🇴 Norway).
 
+
+--------------------------------------------  
 🖥️  See my portfolio at [www.tomineodegard.dk](http://tomineodegard.dk)
 
 ✉️  You can contact me at [tomineodegard@hotmail.no](mailto:tomineodegard@hotmail.no)
