@@ -2,13 +2,18 @@ Hi 👋 My name is Tomine Ødegård
 ===============================
 
 Front end development, UX and digital design
---------------------------------------------
+--------------------------------------------  
+🙋🏽‍♀️ I am a third semester multimedia design-student at Copenhagen School of Design and Technology, with the elective Front End Design.
 
-*   🌍  I'm based in Copenhagen, Denmark
-*   🖥️  See my portfolio at [this link](http://tomineodegard.dk)
-*   ✉️  You can contact me at [tomineodegard@hotmail.no](mailto:tomineodegard@hotmail.no)
-*   🧠  I'm learning Ract
-*   ⚡  I am currently looking for an internship as a part of my education. I am seeking the opportunity to be part of a creative and innovative company where I can further develop my skills in front-end development, UX and digital design.
+🌍  I'm based in Copenhagen, Denmark 🇩🇰 (originally from 🇳🇴 Norway).
+
+🖥️  See my portfolio at [www.tomineodegard.dk](http://tomineodegard.dk)
+
+✉️  You can contact me at [tomineodegard@hotmail.no](mailto:tomineodegard@hotmail.no)
+
+🧠  I'm learning Ract
+
+⚡  I am currently looking for an internship as a part of my education. I am seeking the opportunity to be part of a creative and innovative company where I can further develop my skills in front-end development, UX and digital design. 
 
 ### Skills
 <p align="left">
