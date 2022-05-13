@@ -3,9 +3,9 @@ Hi 👋 My name is Tomine Ødegård
 
 Front end development, UX and digital design
 --------------------------------------------  
-🙋🏽‍♀️ I am a third semester multimedia design-student at Copenhagen School of Design and Technology, with the elective Front End Design.
+I am a third semester multimedia design-student at Copenhagen School of Design and Technology, with the elective Front End Design.
 
-🌍  I'm based in Copenhagen, Denmark 🇩🇰 (originally from 🇳🇴 Norway).
+🇳🇴 / 🇩🇰  Norwegian girl based in Copenhagen, Denmark.
 
 
 --------------------------------------------  
