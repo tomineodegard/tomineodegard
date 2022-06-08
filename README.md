@@ -15,8 +15,6 @@ I am a third semester multimedia design-student at Copenhagen School of Design a
 
 🧠  I'm learning Ract and Tailwind
 
-⚡  I am currently looking for an internship as a part of my education. I am seeking the opportunity to be part of a creative and innovative company where I can further develop my skills in front-end development, UX and digital design. 
-
 ### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
