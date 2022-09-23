@@ -3,7 +3,7 @@ Hi 👋 My name is Tomine Ødegård
 
 Front end development, UX and digital design
 --------------------------------------------  
-I am a third semester multimedia design-student at Copenhagen School of Design and Technology, with the elective Front End Design.
+I am a fourth semester Multimedia Design student at Copenhagen School of Design and Technology. I am solution oriented, enthusiastic with a fondness for digital product development and user friendly design. My core strengths unfold in a combination between UX, UI, and front-end development.
 
 🇳🇴 / 🇩🇰  Norwegian girl based in Copenhagen, Denmark.
 
@@ -13,7 +13,7 @@ I am a third semester multimedia design-student at Copenhagen School of Design a
 
 ✉️  You can contact me at [tomineodegard@hotmail.no](mailto:tomineodegard@hotmail.no)
 
-🧠  I'm learning Ract and Tailwind
+🧠  I'm learning React and Tailwind
 
 ### Skills
 <p align="left">
