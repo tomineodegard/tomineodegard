@@ -13,7 +13,6 @@ I am a Web Development student from Copenhagen School of Design and Technology, 
 
 ✉️  You can contact me at [tomineodegard@hotmail.no](mailto:tomineodegard@hotmail.no)
 
-🧠  I'm learning React and Tailwind
 
 ### Skills
 <p align="left">
