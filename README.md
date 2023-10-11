@@ -1,7 +1,7 @@
 Hi 👋 My name is Tomine Ødegård
 ===============================
 
-Front end development, UX and digital design
+Web developer
 --------------------------------------------  
 I am a Web Development student from Copenhagen School of Design and Technology, with a background in Multimedia Design. I am solution oriented with a fondness for digital product development and user friendly design. My core strengths unfold in a combination between UX, UI, and front-end development.
 
