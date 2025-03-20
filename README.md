@@ -3,13 +3,13 @@ Hi 👋 My name is Tomine Ødegård
 
 Web developer
 --------------------------------------------  
-I am a Web Development student from Copenhagen School of Design and Technology, with a background in Multimedia Design. I am solution oriented with a fondness for digital product development and user friendly design. My core strengths unfold in a combination between UX, UI, and front-end development.
+I hold a Bachelor’s degree in Web Development from Copenhagen School of Technology and Design (KEA) and an AP degree in Multimedia Design. I am solution-oriented, with a fondness for digital product development and user-friendly design. My core strengths unfold in a combination of UX, UI, and front-end development.
 
 🇳🇴 / 🇩🇰  Norwegian girl based in Copenhagen, Denmark.
 
 
 --------------------------------------------  
-🖥️  See my portfolio at [www.tomineodegard.dk](http://tomineodegard.dk)
+🖥️  See my portfolio at [https://tomineodegard.netlify.app/](https://tomineodegard.netlify.app/)
 
 ✉️  You can contact me at [tomineodegard@hotmail.no](mailto:tomineodegard@hotmail.no)
 
